@@ -1,7 +1,7 @@
 # Моделирование краудфандинговой системы
 ## Разработка диаграмм потоков данных
 #### Контекстная диаграмма (DFD 0-го уровня):
-![DFD_0](https://github.com/FalRaut/SsdCrowdfunding/blob/main/images/DFD_0.jpg)
+![DFD_0](https://github.com/FalRaut/SsdCrowdfunding/blob/main/images/DFD.jpg)
 
 #### Фрагмент DFD 1-го уровня (взаимодействие посетителя сайта с элементами начальной страницы):
 ![DFD_1(1)](https://github.com/FalRaut/SsdCrowdfunding/blob/main/images/DFD_1(1).jpg)
